@@ -1,0 +1,8 @@
+vendor
+vendor/bin/carbon.bat
+vendor/bin/commonmark.bat
+vendor/bin/phpunit.bat
+vendor/bin/psysh.bat
+vendor/bin/var-dump-server.bat
+vendor/nesbot/carbon/bin/carbon.bat
+vendor/symfony/console/Resources/bin/hiddeninput.exe
